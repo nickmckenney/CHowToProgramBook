@@ -1,0 +1,3 @@
+Sentinel Value
+    end of data entry
+    User would type a known bad data to indicate end of entry
