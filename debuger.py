@@ -3,7 +3,7 @@ from pwn import *
 import sys
 context.log_level = 'DEBUG'
 context(os='linux', arch='amd64')
-e = context.binary = ELF("./Chapter2/code")
+e = context.binary = ELF("./Chapter2/section2.3")
 p = e.debug(gdbscript="source /home/nick/global/halfdisp.py"
 +"\nbreak *main"
 +"\nc"
