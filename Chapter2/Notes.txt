@@ -1,1 +1,7 @@
-Test
+Preprocesspr Directive
+    #include <stdio.h>
+Linker Program is called an Executable
+
+scanf
+    Begin every variable name with & to reference the address
+

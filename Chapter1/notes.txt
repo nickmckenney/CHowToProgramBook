@@ -1,0 +1,3 @@
+gcc links a program abd compiles it
+    gcc -std=18 welcome.c -o welcome
+
